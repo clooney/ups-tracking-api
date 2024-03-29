@@ -11,7 +11,7 @@ TrackingMore provides API compatibility with seven programming languages. Compre
 
 ### Tracking Status Glossary
 
-We categorize shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
+TrackingMore categorizes shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
 String | Description 
 ----|------
 inforeceived | The courier has received the package info and is about to pick up the package.
