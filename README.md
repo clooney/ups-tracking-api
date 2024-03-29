@@ -1,7 +1,7 @@
 # TrackingMore: UPS Tracking API
-[UPS Tracking API](https://www.trackingmore.com/ups-tracking-api.html) enables you to connect tracking info of UPS shipments into your system, improving shipment visibility. 
+[UPS Tracking API](https://www.trackingmore.com/ups-tracking-api.html) allows you to integrate tracking information of UPS shipments into your system, improving shipment visibility. 
 
-Besides UPS, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+Besides UPS, TrackingMore supports shipment tracking across 1,200+ carriers worldwide through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
 
 TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
 
